@@ -1,3 +1,3 @@
-# Tolc #
+# Tolc Beta Releases #
 
-This is the repository that hosts the open beta release for the `tolc` software. The preferred way of using this release is via [the `tolc` bootstrap script.](https://github.com/Tolc-Software/bootstrap-tolc-cmake).
+**NOTE: ** This repository only hosts the releases of the open beta for `tolc``. Go to the [the demo repository to see how to use this program.](https://github.com/Tolc-Software/tolc-demo)
